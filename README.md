@@ -1,2 +1,2 @@
 # Full-stack-open-course
-my code with <a href="www.fullstackopen.com">full stack open</a>
+my course code in <a href="fullstackopen.com">full stack open</a>
